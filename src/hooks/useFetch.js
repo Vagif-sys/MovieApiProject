@@ -15,3 +15,4 @@ export const useFetch = (apiPath, queryTerm="") => {
 
   return { data }
 }
+
